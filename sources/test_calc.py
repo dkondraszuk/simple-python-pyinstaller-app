@@ -1,6 +1,5 @@
 import unittest
 import calc
-# minor change
 
 class TestCalc(unittest.TestCase):
     """
